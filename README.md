@@ -1,6 +1,8 @@
 # Coffee-Machine
 Graphical User Input on coffee ordering system
 <br />
+Simple GUI is added to have an example on a simple GUI
+<br />
 ## Coffee Menu
 ![image](https://user-images.githubusercontent.com/29586968/57807307-87a96900-7726-11e9-8144-36703bb84f23.png)
 <br />
